@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MainWindow",
+            "request": "launch",
+            "mainClass": "amazonia.window.MainWindow",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginPanel",
+            "request": "launch",
+            "mainClass": "amazonia.views.LoginPanel",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegisterPanel",
+            "request": "launch",
+            "mainClass": "amazonia.views.RegisterPanel",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch AmazoniaLoginPanel",
+            "request": "launch",
+            "mainClass": "amazonia.views.AmazoniaLoginPanel",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch PaymentPanel",
+            "request": "launch",
+            "mainClass": "amazonia.views.PaymentPanel",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch SettingsPanel",
+            "request": "launch",
+            "mainClass": "amazonia.views.SettingsPanel",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainWindow",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.MainWindow",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch AmazoniaLogin",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.AmazoniaLogin",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch RegisterController",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.RegisterController",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example2",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.Example2",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example1",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.Example1",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch PasswordController",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.PasswordController",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch PasswordDemo",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.PasswordDemo",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginController",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.LoginController",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gui",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.Gui",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadioButtonExample",
+            "request": "launch",
+            "mainClass": "amazonia.controllers.RadioButtonExample",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demonstrator",
+            "request": "launch",
+            "mainClass": "amazonia.testers.Demonstrator",
+            "projectName": "PADSOF-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

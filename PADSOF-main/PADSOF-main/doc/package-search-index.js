@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"amazonia.application"},{"l":"amazonia.packages"},{"l":"amazonia.products"},{"l":"amazonia.testers"},{"l":"amazonia.trucks"},{"l":"amazonia.users"}];updateSearchResults();
